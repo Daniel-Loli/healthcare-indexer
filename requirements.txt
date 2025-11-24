@@ -1,0 +1,7 @@
+azure-functions
+azure-storage-blob
+azure-search-documents==11.4.0
+python-dotenv
+openai==0.28.1
+PyPDF2
+tiktoken
